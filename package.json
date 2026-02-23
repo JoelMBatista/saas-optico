@@ -3,7 +3,6 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://joelmbatista.github.io/saas-optico",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
