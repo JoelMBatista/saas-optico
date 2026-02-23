@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [react()],
-    base: './', // Allows the build to work on any path (e.g. GitHub Pages)
+    base: '/saas-optico/', // Correct exact repository name format for GitHub Pages
 })
